@@ -36,7 +36,9 @@ This Dockerfile ensures the final image is production-ready, containing only the
 Jenkins is hosted on an AWS EC2 instance to automate the CI/CD process. Below are some screenshots of the Jenkins setup and job execution:
 
 
-![4](https://github.com/user-attachments/assets/f87c0a69-66f7-40e6-8e5c-c9942966d138)
+![4](https://github.com/user-attachments/assets/9c911bef-66bd-4a39-95ca-0e12ef927b45)
+
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------
@@ -58,11 +60,13 @@ The pipeline is defined in a `JenkinsFile` with the following stages:
 
 ### Jenkins Build Output
 
-![1](https://github.com/user-attachments/assets/966f9411-ea3e-4c29-8517-d84bcefdd165)
+![1](https://github.com/user-attachments/assets/50e4c61a-2892-4eea-9ac5-3dc90fbade11)
 
 
 
-![2](https://github.com/user-attachments/assets/ad2fbcc0-844f-435b-9ee8-dad946baadf2)
+
+![2](https://github.com/user-attachments/assets/e7422ab1-ecb6-47e3-8b94-8ce8f994449d)
+
 
 
 
@@ -75,7 +79,8 @@ SonarQube is integrated into the Jenkins pipeline for code quality analysis.
 
 ### SonarQube
 
-![3](https://github.com/user-attachments/assets/943bd8e2-3599-4a77-bec5-6571b7e5c2bd)
+![3](https://github.com/user-attachments/assets/2ed96d2f-6f72-4a37-8f32-7c9da95f5923)
+
 
 
 It highlights potential bugs, code smells, and vulnerabilities. It ensures the application meets quality standards before proceeding to build and deployment.
@@ -86,5 +91,7 @@ It highlights potential bugs, code smells, and vulnerabilities. It ensures the a
 
 Finally, here's the application up and running:
 
-![5](https://github.com/user-attachments/assets/61ba7186-3e51-4521-b887-6af5c1357cd7)
+
+![5](https://github.com/user-attachments/assets/40c4ac37-dee6-4f06-8f24-af159ad15c26)
+
 
