@@ -53,14 +53,16 @@ The pipeline is defined in a `JenkinsFile` with the following stages:
 - **Deploy to EC2**
 
 
-```
+-----------------------------------------------
+
 
 ### Jenkins Build Output
 
 ![1](https://github.com/user-attachments/assets/966f9411-ea3e-4c29-8517-d84bcefdd165)
 
 
----
+------------------------------------------------------------------------------------------- 
+
 
 ## 🔍 SonarQube Integration
 
