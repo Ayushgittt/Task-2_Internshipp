@@ -61,6 +61,11 @@ The pipeline is defined in a `JenkinsFile` with the following stages:
 ![1](https://github.com/user-attachments/assets/966f9411-ea3e-4c29-8517-d84bcefdd165)
 
 
+
+![2](https://github.com/user-attachments/assets/ad2fbcc0-844f-435b-9ee8-dad946baadf2)
+
+
+
 ------------------------------------------------------------------------------------------- 
 
 
