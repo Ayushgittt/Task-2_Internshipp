@@ -24,11 +24,10 @@ Build the Docker Image:
  docker run -d -p 8010:8080 -t ultimate-cicd-pipeline:v1
 
 
-Access the application on http://<ip-address>:8010
-
-```
+Access the application on http:// <ip-address> :8010
 
 This Dockerfile ensures the final image is production-ready, containing only the compiled JAR.
+
 
 ---
 
@@ -40,7 +39,7 @@ Jenkins is hosted on an AWS EC2 instance to automate the CI/CD process. Below ar
 ![4](https://github.com/user-attachments/assets/f87c0a69-66f7-40e6-8e5c-c9942966d138)
 
 
----
+-------------------------------------------------------------------------------------------------------------------------------
 
 ## 📜 Jenkinsfile
 
