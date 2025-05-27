@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Task-2_Internshipp
 
 
@@ -88,6 +87,4 @@ It highlights potential bugs, code smells, and vulnerabilities. It ensures the a
 Finally, here's the application up and running:
 
 ![5](https://github.com/user-attachments/assets/61ba7186-3e51-4521-b887-6af5c1357cd7)
-=======
-# Task-2_Internshipp
->>>>>>> 251e438b7ed0471fa420951eb396313995a0baf0
+
