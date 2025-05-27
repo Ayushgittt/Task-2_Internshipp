@@ -7,7 +7,7 @@ This is a simple yet complete Spring Boot web application demonstrating a full D
 
 - Java + Spring Boot backend
 - Static frontend resources (HTML/CSS)
-- Docker support
+- In jenkins uses Docker as Agent
 - CI/CD pipeline using Jenkins on AWS
 - Code quality checks using SonarQube
 
